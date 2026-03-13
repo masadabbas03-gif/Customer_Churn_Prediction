@@ -1,4 +1,4 @@
----
+
 
 📞 Customer Churn Prediction using Machine Learning
 
@@ -92,7 +92,6 @@ Customer_Churn_Prediction/
 ├── customer_churn_model.pkl                 # Trained model
 ├── README.md                                # Project documentation
 └── requirements.txt                         # Dependencies
-```
 
 🚀 How to Run
 
@@ -109,6 +108,4 @@ Customer_Churn_Prediction/
 
 🤝 Connect
 
-· GitHub: masadabbas03-gif
-
----
+Gmail: masadabbas03@gmail.com
